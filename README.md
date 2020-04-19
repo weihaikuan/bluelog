@@ -1,5 +1,5 @@
 # Bluelog
-
+*THIS IS FORKED FROM GREY.LI' S REPOSITORY*
 *A blue blog.*
 
 > Example application for *[Python Web Development with Flask](http://helloflask.com/en/book)* (《[Flask Web 开发实战](http://helloflask.com/book)》).
